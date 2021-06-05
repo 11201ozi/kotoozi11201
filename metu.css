@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+.kane {
+    font-size: 100px;
+    position: absolute;
+    right: 450px;
+    top: 300px;
+}
+.mokuro img {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
